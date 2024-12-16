@@ -16,7 +16,7 @@ LyricsApp is a simple Android application that allows users to search for and di
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lyricsapp.git
+   git clone https://github.com/lavahotsnacks/lyrics-app.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or a physical device.
@@ -36,7 +36,7 @@ LyricsApp is a simple Android application that allows users to search for and di
 - `ApiClient.kt`: Provides the Retrofit instance for network calls.
 - `LyricsApiService.kt`: Defines the API interface for fetching lyrics.
 - `LyricsResponse.kt`: Data class for the API response.
-- `activity_main.xml` (if applicable): XML layout for legacy UI elements.
+- `activity_main.xml`: XML layout for legacy UI elements.
 
 ### Dependencies
 
